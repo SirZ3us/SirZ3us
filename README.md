@@ -6,3 +6,4 @@ Intested in recieving github updates & viewing upcoming projects? join the commu
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SirZ3us&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Z3's GitHub stats](https://github-readme-stats.vercel.app/api?username=SirZ3us&count_private=true&show_icons=true&theme=radical)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/z3github)
