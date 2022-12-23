@@ -1,11 +1,16 @@
-|Hi there, im ```Z3``` 👋|
-|----|
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/pabqDSlAbRMZsNCC2M/giphy.gif" width="250"/>
+</div>
+
+### Hi there i'm Shalev AKA Z3 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+
 
 
 - Intested in recieving github updates & viewing upcoming projects? join the community on **[Discord](https://discord.gg/PJPcsWV2sv)**!
 - ![discord](https://img.shields.io/discord/1007794580126711830?label=%20&logo=discord)
 - I’m currently working on - [CoreVersion](https://github.com/CoreVersion)
 
+-------------------
 [![Discord Presence](https://lanyard.cnrad.dev/api/643465953677541406)](https://discord.com/users/643465953677541406)
 
 
