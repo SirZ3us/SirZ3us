@@ -10,13 +10,7 @@
 - ![discord](https://img.shields.io/discord/1007794580126711830?label=%20&logo=discord)
 - I’m currently working on - [CoreVersion](https://github.com/CoreVersion)
 
-<details>
-<summary>My top languages</summary>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SirZ3us&layout=compact)](https://github.com/SirZ3us/github-readme-stats)
-  
-</details>
+[![YouTube Badge](https://img.shields.io/badge/-@Dhruv%20Jain-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCqV5WsVwdhGUEa1A1s7ZUDQ)](https://www.youtube.com/channel/UCqV5WsVwdhGUEa1A1s7ZUDQ) 
 
 -------------------
 [![Discord Presence](https://lanyard.cnrad.dev/api/643465953677541406)](https://discord.com/users/643465953677541406)
