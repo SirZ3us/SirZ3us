@@ -23,7 +23,5 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/z3github)
 
-
-![Profile views](https://gpvc.arturio.dev/SirZ3us)
-
 [![YouTube Badge](https://img.shields.io/badge/-@Z3-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCqV5WsVwdhGUEa1A1s7ZUDQ)](https://www.youtube.com/channel/UCqV5WsVwdhGUEa1A1s7ZUDQ) 
+![Profile views](https://gpvc.arturio.dev/SirZ3us)
