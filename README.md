@@ -26,4 +26,4 @@
 
 ![Profile views](https://gpvc.arturio.dev/SirZ3us)
 
-[![YouTube Badge](https://img.shields.io/badge/-@Dhruv%20Jain-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCqV5WsVwdhGUEa1A1s7ZUDQ)](https://www.youtube.com/channel/UCqV5WsVwdhGUEa1A1s7ZUDQ) 
+[![YouTube Badge](https://img.shields.io/badge/-@Z3-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCqV5WsVwdhGUEa1A1s7ZUDQ)](https://www.youtube.com/channel/UCqV5WsVwdhGUEa1A1s7ZUDQ) 
